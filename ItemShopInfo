@@ -1,24 +1,20 @@
 {
-  "Sections": [
-    {
-      "title": "New Billboard!",
-      "description": "Say goodbye to the scrolling frame!!!",
-      "imageId": 11376117882
-    },
-    {
-      "title": "IT MOVES!",
-      "description": "Scrolls through every news page!",
-      "imageId": 11376118736
-    },
-    {
-      "title": "VIA HTTPS!",
-      "description": "All this news is coming from GitHub!",
-      "imageId": 10903543564
-    },
-      {
-      "title": "KINGMESSIAH",
-      "description": "TEST",
-      "imageId": 11376118736
-    }
-  ]
+  "Section1": {
+    "item1": "ClownDance"
+  },
+  "Section2": {
+    "item2": "SpaceStare"
+  },
+  "Section3": {
+    "item3": "MagicalWand"
+  },
+  "Section4": {
+    "item4": "DragonSword"
+  },
+  "Section5": {
+    "item5": "NinjaMask"
+  },
+  "Section6": {
+    "item6": "SuperheroCape"
+  }
 }
