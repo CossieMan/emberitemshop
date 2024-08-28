@@ -1,6 +1,6 @@
 {
     "oldData": {
-        "version": 99,
+        "version": 01,
         "lastUpdated": "2024-08-27T12:00:00Z",
         "Section1": {
             "item1": "KingMessiah"
@@ -22,7 +22,7 @@
         }
     },
     "newData": {
-        "version": 100,
+        "version": 02,
         "lastUpdated": "2024-08-28T12:00:00Z",
         "Section1": {
             "item1": "KingMessiahUpdated"
