@@ -1,7 +1,7 @@
 {
-     "oldData": {
-         "version": "04",
-         "lastUpdated": "2024-08-29T12:00:00Z",
+     "newData": {
+         "version": "06",
+         "lastUpdated": "2024-08-30T12:00:00Z",
          "Section1": {
              "item1": "SourRhubarb"
          },
@@ -21,7 +21,7 @@
              "item6": "SourRhubarb"
          }
      },
-     "newData": {
+     "oldData": {
          "version": "05",
          "lastUpdated": "2024-08-29T12:00:00Z",
          "Section1": {
